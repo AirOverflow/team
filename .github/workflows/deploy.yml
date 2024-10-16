@@ -23,8 +23,13 @@ jobs:
 
       - name: Setup Hugo
         run: |
+          curl -LJO https://github.com/sass/dart-sass/releases/download/1.79.2/dart-sass-1.79.2-linux-x64.tar.gz
+          tar -xf dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz
+          cp -r dart-sass/* /usr/local/bin
+          rm -rf dart-sass*
           curl -L -o /tmp/hugo.tar.gz 'https://github.com/gohugoio/hugo/releases/download/v0.136.0/hugo_0.136.0_linux-amd64.tar.gz'
           tar -C ${RUNNER_TEMP} -zxvf /tmp/hugo.tar.gz hugo
+          apt install 
       - name: Build
         run: ${RUNNER_TEMP}/hugo
 
