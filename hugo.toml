@@ -6,6 +6,9 @@ theme = 'nightfall'
 [params]
 user = "team"
 hostname = "airoverflow.com"
+sitedescription = 'AirOverflow is a company & a CTF team from Pakistan. We plat CTFs, organize events related to Cyber Security & ofcourse do fun. '
+readingTime = true  # Show reading time on post page
+published = true  # Show published data on post page
 
   [params.author]
     name = "AirOverflow"
@@ -29,9 +32,6 @@ target = "_blank"
 key = 3
 name = "email"
 url = "mailto:support@airoverflow.com"
-
-[params]
-sitedescription = 'AirOverflow is a company & a CTF team from Pakistan. We plat CTFs, organize events related to Cyber Security & ofcourse do fun. '
 
 [menu]
   [[menu.header]]
