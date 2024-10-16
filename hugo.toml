@@ -2,3 +2,43 @@ baseURL = 'https://team.airoverflow.com/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'nightfall'
+
+[params]
+user = "team"
+hostname = "airoverflow.com"
+
+  [params.author]
+    name = "AirOverflow"
+    email = "shameer.k@airoverflow.com"
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/airoverflow"
+icon = "fa-brands fa-github"  # Add link to your icon font to `layouts/partials/custom-head.html`
+target = "_blank" # Defines your target option in a-href. _blank for a new Tab for example.
+aria = "GitHub Profile" # Define the aria label for accessibility like page reader - this is better for your SEO
+
+[[params.social]]
+key = 1
+name = "website"
+url = "https://airoverflow.com"
+target = "_blank"
+
+[[params.social]]
+key = 3
+name = "email"
+url = "mailto:support@airoverflow.com"
+
+[params]
+sitedescription = 'AirOverflow is a company & a CTF team from Pakistan. We plat CTFs, organize events related to Cyber Security & ofcourse do fun. '
+
+[menu]
+  [[menu.header]]
+    name = "blogs"
+    weight = 0
+    url = "/blogs"
+  [[menu.header]]
+    name = "members"
+    weight = 1
+    url = "/members"
