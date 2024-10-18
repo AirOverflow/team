@@ -5,4 +5,6 @@ date = "2024-10-18"
 author = "hash3liZer"
 +++
 
-<div stlye="display:block">Make test of things here</div>
+{{<div style="display: flex;flex-wrap: wrap;">}}
+    testing something
+{{</div>}}
