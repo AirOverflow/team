@@ -24,3 +24,8 @@ footerHtml = 'Built with <a href="https://gohugo.io" class="footerLink">Hugo</a>
     name = "members"
     weight = 1
     url = "/members"
+
+[[params.social]]
+key = 0
+name = "A CTF Team | cat :flag_pk:"
+url = "#"
