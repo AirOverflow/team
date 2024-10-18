@@ -5,6 +5,6 @@ date = "2024-10-18"
 author = "hash3liZer"
 +++
 
-{{<div style="display: flex;flex-wrap: wrap;">}}
+{{< flex_beg >}}
     testing something
-{{</div>}}
+{{< flex_end >}}
