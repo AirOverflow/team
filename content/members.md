@@ -5,6 +5,4 @@ date = "2024-10-18"
 author = "hash3liZer"
 +++
 
-|             |             |               |
-| :---        |    :----:   |          ---: |
-| ![TheFlash2k](https://avatars.githubusercontent.com/u/19727349?v=4)      | Rev/Pwn/Misc       |    |
+<div stlye="display:block">Make test of things here</div>
