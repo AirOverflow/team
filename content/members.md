@@ -13,4 +13,5 @@ author = "hash3liZer"
     {{< profile imgsrc="https://avatars.githubusercontent.com/u/83768838" name="abdullahzamir" tagline="Crypto / Rev / Forensics" weblink="https://abdullahzamir.me/" githublink="https://github.com/abdullahzamir" >}}
     {{< profile imgsrc="https://avatars.githubusercontent.com/u/138362525?v=4" name="hexamine22" tagline="Rev / Pwn" weblink="https://github.com/hexamine22" githublink="https://github.com/hexamine22" >}}
     {{< profile imgsrc="https://avatars.githubusercontent.com/u/48220841?v=4" name="stdnoerr" tagline="Pwn" weblink="https://stdnoerr.github.io/" githublink="https://github.com/stdnoerr" >}}
+    {{< profile imgsrc="https://github.com/user-attachments/assets/90c81e82-bca3-4e87-a9da-8f9f80df2f88" name="AhmadJ" tagline="Android / Forensics / Web" weblink="https://www.linkedin.com/in/ahmedcys/" githublink="https://github.com/ahmeddjalil" >}}
 {{< flex_end >}}
