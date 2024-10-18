@@ -6,5 +6,6 @@ author = "hash3liZer"
 +++
 
 {{< flex_beg >}}
-    testing something
+    {{ <profile > }}
+    {{ <profile > }}
 {{< flex_end >}}
