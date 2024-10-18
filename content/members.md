@@ -6,6 +6,6 @@ author = "hash3liZer"
 +++
 
 {{< flex_beg >}}
-    {{ <profile > }}
-    {{ <profile > }}
+    {{< profile >}}
+    {{< profile >}}
 {{< flex_end >}}
