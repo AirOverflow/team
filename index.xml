@@ -15,7 +15,7 @@
       <link>https://team.airoverflow.com/members/</link>
       <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate><author>blog@airoverflow.com (AirOverflow Team)</author>
       <guid>https://team.airoverflow.com/members/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: right&#34;&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/u/19727349?v=4&#34; alt=&#34;TheFlash2k&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Rev/Pwn/Misc&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
