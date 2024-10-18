@@ -1,15 +1,15 @@
 baseURL = 'https://team.airoverflow.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'AirOverflow Team'
 theme = 'nightfall'
 
 [params]
 user = "team"
 hostname = "airoverflow.com"
-sitedescription = 'AirOverflow is a company & a CTF team from Pakistan. We plat CTFs, organize events related to Cyber Security & ofcourse do fun. '
-readingTime = true  # Show reading time on post page
+sitedescription = 'AirOverflow is a company & a CTF team from Pakistan. We play CTFs, organize events, create challenges and much more. This website is designed for the purpose of publishing our blogs and showcase our team members. '
+readingTime = false  # Show reading time on post page
 published = true  # Show published data on post page
-footerHtml = 'CC-0, Built with <a href="https://gohugo.io" class="footerLink">Hugo</a>. Managed by <a href="https://github.com/hash3liZer" class="footerLink">hash3liZer</a>'
+footerHtml = 'Built with <a href="https://gohugo.io" class="footerLink">Hugo</a>. Managed by <a href="https://github.com/hash3liZer" class="footerLink">hash3liZer</a>'
 
   [params.author]
     name = "AirOverflow Team"
